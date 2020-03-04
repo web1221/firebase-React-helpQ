@@ -1,4 +1,5 @@
 import c from './../constants';
+const { c } = constants;
 
 export default (state = {}, action) => {
   let newState;

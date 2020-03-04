@@ -9,6 +9,7 @@ import Admin from './Admin';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import c from './../constants';
+const { c } = constants;
 
 class App extends React.Component {
 
